@@ -49,7 +49,7 @@ modelo_pose = YOLO("yolov8n-pose.pt")
 # ==========================================
 ES_VIDEO_LOCAL = True 
 # URL RTSP de la cámara IP (cambiar ES_VIDEO_LOCAL a False para usar en vivo)
-URL_CAMARA = "tienda.mp4" if ES_VIDEO_LOCAL else "rtsp://admin:MJTXGI@192.168.1.4:554/H.264"
+URL_CAMARA = "tienda.mp4" if ES_VIDEO_LOCAL else "rtsp://user:login@192.168.x.x:554/H.264"
 camara = cv2.VideoCapture(URL_CAMARA)
 
 # --- Diccionarios de Memoria ---
