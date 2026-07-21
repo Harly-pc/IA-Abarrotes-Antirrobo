@@ -297,9 +297,7 @@ tiempo_ultima_alerta_global = 0
 tiempo_ultimo_aviso_grupo = 0 
 
 print("\n" + "="*60)
-print("✅ INICIANDO SISTEMA IA_ABARROTES (V11 FINAL)")
-print("✅ Motor Biomecánico: ACTIVADO")
-print("✅ Módulo Anti-Manada (45s): ACTIVADO")
+print("✅ INICIANDO SISTEMA IA_ABARROTES ")
 print("✅ Módulo de Aprendizaje Supervisado: ACTIVADO")
 print("="*60 + "\n")
 
