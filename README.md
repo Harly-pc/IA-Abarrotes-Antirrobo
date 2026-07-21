@@ -1,4 +1,4 @@
-# 🛒 IA_ABARROTES (V11) - Sistema Antirrobo con Visión Artificial
+# 🛒 IA_ABARROTES  - Sistema Antirrobo con Visión Artificial
 
 Sistema de visión por computadora desarrollado en **Python** que utiliza **YOLOv8-pose** y **OpenCV** para la prevención de pérdidas y seguridad en tiendas de abarrotes y comercios.
 
